@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-10-18T16:44:03+08:00",
+  "states": {
+    "info": {
+      "name": "清华 info 公开检索",
+      "status": "success",
+      "fetched": 2,
+      "inserted": 2,
+      "updated": 0,
+      "errors": [],
+      "last_attempt_at": "2026-10-18T16:43:52+08:00",
+      "pages_fetched": 2,
+      "coverage": "公开检索前 2 页，本轮已读记录按发布时间降序；不覆盖完整历史",
+      "last_success_at": "2026-10-18T16:43:52+08:00",
+      "error_message": null,
+      "last_finished_at": "2026-10-18T16:43:59+08:00"
+    },
+    "ee": {
+      "name": "清华大学电子工程系",
+      "status": "success",
+      "fetched": 2,
+      "inserted": 2,
+      "updated": 0,
+      "errors": [],
+      "last_attempt_at": "2026-10-18T16:43:59+08:00",
+      "last_success_at": "2026-10-18T16:43:59+08:00",
+      "error_message": null,
+      "last_finished_at": "2026-10-18T16:44:03+08:00"
+    }
+  },
+  "articles": [
+    {
+      "id": "ec18c0dbd224d6c4225a8306",
+      "source_id": "info",
+      "source": "清华 info 公开检索",
+      "external_id": "fc31e41ec923405282a308b7caaceace",
+      "title": "关于开展2026年秋季学期第一次全校党员集中培训（教职工党员）的通知",
+      "source_url": "https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=fc31e41ec923405282a308b7caaceace",
+      "published_at": "2026-10-09T14:51:00+08:00",
+      "content_status": "web_text",
+      "body_length": 1295,
+      "preview_length": 200
+    },
+    {
+      "id": "23eb50597dd811e27170625f",
+      "source_id": "info",
+      "source": "清华 info 公开检索",
+      "external_id": "ee8f9407b69f4a2592af9c454c751c06",
+      "title": "关于开展2026年秋季学期第一次全校党员集中培训（教职工党员）的通知",
+      "source_url": "https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=ee8f9407b69f4a2592af9c454c751c06",
+      "published_at": "2026-10-09T14:51:00+08:00",
+      "content_status": "web_text",
+      "body_length": 1295,
+      "preview_length": 0
+    },
+    {
+      "id": "21a68ece04fbd7da1f9b5b9d",
+      "source_id": "ee",
+      "source": "清华大学电子工程系",
+      "external_id": "5331",
+      "title": "清华大学电子工程系2027年招收普通招考博士（含硕博连读）研究生综合考核名单公示",
+      "source_url": "https://www.ee.tsinghua.edu.cn/info/1078/5331.htm",
+      "published_at": "2026-08-31",
+      "content_status": "web_text_with_attachments",
+      "body_length": 46,
+      "preview_length": 0
+    },
+    {
+      "id": "a6f6a3192fdc85c37d950ba5",
+      "source_id": "ee",
+      "source": "清华大学电子工程系",
+      "external_id": "5330",
+      "title": "清华大学2027年电子工程系接收优秀应届本科毕业生免试攻读研究生综合考核名单公示",
+      "source_url": "https://www.ee.tsinghua.edu.cn/info/1078/5330.htm",
+      "published_at": "2026-08-31",
+      "content_status": "web_text_with_attachments",
+      "body_length": 46,
+      "preview_length": 0
+    }
+  ]
+}

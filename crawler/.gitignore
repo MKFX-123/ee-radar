@@ -1,0 +1,8 @@
+.venv/
+vendor/
+data/
+logs/
+.env
+__pycache__/
+*.pyc
+install.log

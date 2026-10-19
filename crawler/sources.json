@@ -1,0 +1,110 @@
+{
+  "info": {
+    "name": "清华 info 公开检索",
+    "kind": "info",
+    "url": "https://info.tsinghua.edu.cn/f/info/portal_fg/common/yyfwsearch",
+    "enabled": true,
+    "pages": 3,
+    "fetch_details": true
+  },
+  "ee": {
+    "name": "清华大学电子工程系",
+    "kind": "website",
+    "url": "https://www.ee.tsinghua.edu.cn/dzxw/tpxw.htm",
+    "listing_urls": [
+      "https://www.ee.tsinghua.edu.cn/dzxw/tpxw.htm",
+      "https://www.ee.tsinghua.edu.cn/dzxw/dtxx.htm"
+    ],
+    "selector": "a[href]",
+    "enabled": true
+  },
+  "sports_site": {
+    "name": "清华大学体育部",
+    "kind": "website",
+    "url": "https://www.thsports.tsinghua.edu.cn/zhxw.htm",
+    "listing_urls": [
+      "https://www.thsports.tsinghua.edu.cn/zhxw.htm",
+      "https://www.thsports.tsinghua.edu.cn/tzgg.htm"
+    ],
+    "selector": ".tz-list a[href]",
+    "enabled": true
+  },
+  "sports": {
+    "name": "清华体育公众号",
+    "kind": "wechat",
+    "urls": [],
+    "enabled": true,
+    "note": "公开索引仅用于发现链接；实际采集微信原文，核对公众号名称和配置日期范围内的发布日期，不保证覆盖完整历史",
+    "public_index_source": "wa_f03bab4e76055848382a6250e0ce5303",
+    "expected_account": "清华体育"
+  },
+  "wechat": {
+    "name": "微信公众号公开文章",
+    "kind": "wechat",
+    "urls": [
+      "https://mp.weixin.qq.com/s/2Zq8CYQknLCN-S7Z7lbnLg",
+      "https://mp.weixin.qq.com/s/p9eqrQ0ypYTuh8iSBfz_Nw"
+    ],
+    "enabled": true
+  },
+  "voice": {
+    "name": "无限之声",
+    "kind": "wechat",
+    "urls": [],
+    "expected_account": "无限之声",
+    "public_index_source": "wa_8433b9613c0c18606e21068e57a83596",
+    "enabled": true
+  },
+  "grad": {
+    "name": "E研E行",
+    "kind": "wechat",
+    "urls": [],
+    "expected_account": "E研E行",
+    "public_index_source": "wa_c2bca4c6030a47cfc9f35085e65f3443",
+    "enabled": true
+  },
+  "ee_wechat": {
+    "name": "清华大学电子工程系",
+    "kind": "wechat",
+    "urls": [
+      "https://mp.weixin.qq.com/s/hiRzaYMIB2z-3LxLNYXflA",
+      "https://mp.weixin.qq.com/s/kdgHj8qkictLTR3IFLgFLA"
+    ],
+    "expected_account": "清华大学电子工程系",
+    "enabled": true,
+    "discovery_url": "https://www.ee.tsinghua.edu.cn/",
+    "public_index_source": "wa_7bec65cc40634b31d293f7209f42728d",
+    "note": "公开索引仅用于发现链接；实际采集微信原文，核对公众号名称和配置日期范围内的发布日期，不保证覆盖完整历史"
+  },
+  "tsinghua_wechat": {
+    "name": "清华大学",
+    "kind": "wechat",
+    "urls": [
+      "https://mp.weixin.qq.com/s/LYlbI4ptPj6bGjRbQv301A",
+      "https://mp.weixin.qq.com/s/qSQXr4mLT5hxAtIYi2dQnA"
+    ],
+    "expected_account": "清华大学",
+    "enabled": true,
+    "discovery_url": "https://www.tsinghua.edu.cn/sjmt/wx.htm",
+    "public_index_source": "wa_d7cee8ac569edec5d4d349cf2cdea4b7",
+    "note": "公开索引仅用于发现链接；实际采集微信原文，核对公众号名称和配置日期范围内的发布日期，不保证覆盖完整历史"
+  },
+  "aishengquan": {
+    "name": "艾生权",
+    "kind": "wechat",
+    "urls": [],
+    "expected_account": "艾生权",
+    "enabled": true,
+    "note": "公开索引仅用于发现链接；实际采集微信原文，核对公众号名称和配置日期范围内的发布日期，不保证覆盖完整历史",
+    "public_index_source": "wa_85437ba35e11d5bdb60d2e694e108b84"
+  },
+  "thu_su": {
+    "name": "清华大学学生会",
+    "kind": "wechat",
+    "urls": [],
+    "expected_account": "清华大学学生会",
+    "enabled": true,
+    "note": "公开索引仅用于发现链接；实际采集微信原文，核对公众号名称和配置日期范围内的发布日期，不保证覆盖完整历史",
+    "public_index_source": "wa_1f874c32553aae86999f93bb81669666"
+  }
+}
